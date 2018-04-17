@@ -1,1 +1,3 @@
-HackerNews NextJS
+#HackerNews en NextJS
+> Made @ Aerolab (Workshop)
+
